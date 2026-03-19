@@ -1,0 +1,21 @@
+country,continent,life_expectancy,covid_confirmed,covid_deaths
+India,Asia,69.7,45000000,530000
+USA,North America,77.3,103000000,1120000
+Brazil,South America,75.5,38000000,700000
+UK,Europe,81.2,25000000,230000
+Germany,Europe,80.9,18000000,170000
+France,Europe,82.5,17000000,160000
+Italy,Europe,83.0,16000000,190000
+Spain,Europe,83.4,14000000,120000
+China,Asia,77.1,NaN,5200
+Japan,Asia,84.5,33000000,74000
+Australia,Oceania,83.2,12000000,22000
+Canada,North America,81.9,4700000,53000
+Mexico,North America,75.0,7600000,330000
+Russia,Europe,72.6,22000000,390000
+South Africa,Africa,64.1,4000000,102000
+Nigeria,Africa,54.3,NaN,3200
+Egypt,Africa,70.2,515000,25000
+Argentina,South America,76.7,10000000,130000
+Indonesia,Asia,71.7,6800000,160000
+South Korea,Asia,83.3,31000000,34000
