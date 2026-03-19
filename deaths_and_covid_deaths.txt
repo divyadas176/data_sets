@@ -1,0 +1,21 @@
+country,deaths,covid_deaths
+Italy,1200,300
+India,1500,NaN
+USA,2000,500
+Brazil,1800,450
+France,1100,NaN
+Germany,900,200
+Spain,1300,350
+UK,1400,400
+Russia,1600,NaN
+China,800,100
+Japan,700,50
+Canada,950,NaN
+Australia,600,30
+Mexico,1700,420
+South Africa,1250,NaN
+Argentina,1350,380
+Turkey,1450,NaN
+Indonesia,1550,410
+South Korea,500,20
+Saudi Arabia,1000,NaN
